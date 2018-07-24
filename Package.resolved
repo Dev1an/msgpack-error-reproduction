@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MessagePack",
+        "repositoryURL": "https://github.com/Flight-School/MessagePack",
+        "state": {
+          "branch": null,
+          "revision": "d9acb58b6a3757f252009a21cf966ddb40c47f8e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
